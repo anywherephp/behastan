@@ -1,0 +1,5 @@
+#!/usr/bin/env php
+<?php 
+namespace Behastan202606;
+
+require __DIR__ . '/behastan.php';
